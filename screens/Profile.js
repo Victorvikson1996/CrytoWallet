@@ -1,15 +1,17 @@
 import React from 'react';
 import {
-    View,
-    Text
+  View,
+  Text
 } from 'react-native';
 
+import { Mainlayout } from '.';
+
 const Profile = () => {
-    return (
-        <View>
-            <Text>Profile</Text>
-        </View>
-    )
-}
+  return (
+    <Mainlayout>
+      <Text>Profile</Text>
+    </Mainlayout>
+  );
+};
 
 export default Profile;

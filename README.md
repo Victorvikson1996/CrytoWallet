@@ -30,6 +30,6 @@ For Windows PC Open two terminal Run: `Yarn Start` & ` yarn react-native run-and
 </p>
 
 
-<p align="right">
+<p align="center">
   <img src="Images/Market.png?raw=true" width="360" />
 </p>
