@@ -25,12 +25,11 @@ Run Project Locally:  `Yarn Dev or yarn start`
 
 For Windows PC Open two terminal Run: `Yarn Start` & ` yarn react-native run-android`  
 
-<!-- <p align="left">
+<p align="left">
   <img src="Images/Home.png?raw=true" width="360" />
-</p> -->
+</p>
 
 
 <p align="center">
-<img src="Images/Home.png?raw=true" width="360"
   <img src="Images/Market.png?raw=true" width="360" />
 </p>
